@@ -1,0 +1,1 @@
+<?php $pdo = new PDO('mysql:host=localhost;dbname=lista_de_tarefas', 'root', ''); ?>
